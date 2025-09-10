@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-class Node
+struct Node
 {
 public:
     int rollNo;

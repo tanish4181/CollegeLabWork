@@ -30,7 +30,7 @@ class Comp {
     }
 }
 
-class Multiplication {
+class complexnoMultiplication {
 
     public static void main(String[] args) {
         Comp t = new Comp(4, 2);
